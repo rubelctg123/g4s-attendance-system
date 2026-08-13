@@ -1,0 +1,6 @@
+{
+  "name": "G4S Attendance Management System",
+  "description": "Simple G4S Job Card and Attendance Management System for Vancot Limited with dynamic calculations, Supabase persistence, and PDF/Excel export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
